@@ -16,4 +16,10 @@ Steps up to this point:
 
 1. I typed: git clone https://github.com/samicarroll/VCSHomework.git
 2. I added changes to files 
-3. I pushed it onto the repository, 
+2. git add vcscen3031.txt
+3. git commit -m “Cloned covers steps 6-8”
+4. I pushed it onto the repository: git push origin master 
+
+I am now editing the file with the recent changes on it, I am going to push the file onto the repository. 
+a. Covers steps 7-10 
+
