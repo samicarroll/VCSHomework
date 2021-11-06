@@ -1,0 +1,12 @@
+Homework 2
+
+Group Member One: Samantha Stilwell-Carroll
+Group Member Two: Grace Erickson
+
+Steps up to this point using Mac:  
+
+	1.	Open the terminal and choose directory. I typed: cd VCSHomework-1/
+	2.	Then I created a new text file called vcscen3031.txt. I typed:  touch vcscen3031.txt
+	3.	I open finder to retrieve vcscen3031.txt and write team member names to it. 
+	4.	I typed: git add vcscen3031.txt 
+	5.	Git commit -m “add vcscen3031.txt. This Covers Steps 1-5”
