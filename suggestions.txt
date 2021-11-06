@@ -1,0 +1,11 @@
+
+
+Steps up to this point: 
+
+Covers steps 11-14 
+
+1. I pulled the recent changes : git pull origin master 
+2.  creates a new file, "suggestion.txt," on their local repository: touch suggestion.txt —> ls 
+3. Added content on forking to suggestions file 
+4. Git add suggestion.txt
+5. Git commit -m “Forking changes"
