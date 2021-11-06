@@ -10,3 +10,10 @@ Steps up to this point using Mac:
 	3.	I open finder to retrieve vcscen3031.txt and write team member names to it. 
 	4.	I typed: git add vcscen3031.txt 
 	5.	Git commit -m “add vcscen3031.txt. This Covers Steps 1-5”
+
+
+Steps up to this point: 
+
+1. I typed: git clone https://github.com/samicarroll/VCSHomework.git
+2. I added changes to files 
+3. I pushed it onto the repository, 
